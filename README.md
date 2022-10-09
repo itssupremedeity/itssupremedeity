@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nduduzo
 - 👀 I’m interested in software as a whole
-- 📫 How to reach me ...
+- 📫 https://www.linkedin.com/in/nduduzomthiyane/
 
 <!---
 itssupremedeity/itssupremedeity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
